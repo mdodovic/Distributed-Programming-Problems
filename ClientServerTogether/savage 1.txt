@@ -1,0 +1,7 @@
+Pocetak kuvanjaIteracija: 0 - 43
+Iteracija: 0 - 31
+Iteracija: 0 - 55
+Iteracija: 1 - 76
+Iteracija: 1 - 43
+Iteracija: 1 - 19
+null
