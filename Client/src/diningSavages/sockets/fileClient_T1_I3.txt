@@ -1,0 +1,3 @@
+level: 1 type: 1 data: 0 food (id: 52)
+level: 1 type: 1 data: 1 food (id: 39)
+level: 1 type: 1 data: 2 food (id: 41)
